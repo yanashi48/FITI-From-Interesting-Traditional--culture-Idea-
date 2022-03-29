@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1e60240eec9de804b9690c870ab4019e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MF LangQian (Noncommercial)
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b80627d4f51aacd4989c116dd34158f5, type: 3}
+  - {fileID: 12800000, guid: d9b4b19eaf9294b49a1dc33aa0a6d275, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
